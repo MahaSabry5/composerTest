@@ -1,0 +1,16 @@
+{
+    "name": "lenovo/test",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\Test\\": "src/",
+            "App\\":"app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MahaSabry5",
+            "email": "maha08526@gmail.com"
+        }
+    ],
+    "require": {}
+}
